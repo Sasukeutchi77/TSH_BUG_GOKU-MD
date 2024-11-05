@@ -2,26 +2,26 @@
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @alvinblaste...13
 //GitHub: @Kevin-Tsh
-//Whatsapp +243891716833
+//Whatsapp +22607603281
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@alvinblaste...13
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "243891716833"
-global.ownername = "🌹MR KEVIN TSH🌹"
+global.ownernomer = "22607603281"
+global.ownername = "༒𝛭𝛪𝛫𝛯𝑌 𝑆𝛥𝛮𝛩卍"
 global.ytname = "YT: alvinblaste...13"
 global.socialm = "GitHub: Kevin-Tsh"
 global.location = "Cong Kinshasa, Haut Katanga, Lubumbashi"
 
-global.ownernumber = '243891716833'  //creator number
+global.ownernumber = '22607603281'  //creator number
 global.ownername = '🌹𝐌𝐑.𝐊É𝐕𝐈𝐍 𝐓𝐒𝐇🌹' //owner name
 global.botname = '🐲⸢𝐆𝐎𝐊𝐔-𝐌𝐃⸥🐲' //name of the bot
 
 //sticker details
 global.packname = 'FML-GRIMM🐲🌹'
-global.author = '𝐌𝐑.𝐊É𝐕𝐈𝐍 𝐓𝐒𝐇'
+global.author = '༒𝛭𝛪𝛫𝛯𝑌 𝑆𝛥𝛮𝛩卍'
 
 //console view/theme
 global.themeemoji = '🌹'
